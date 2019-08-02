@@ -1,1 +1,0 @@
-# najmiatuljannah.github.io
