@@ -18,3 +18,10 @@ if (snippet.length) {
     });
   });
 }
+
+/* Demo purposes only */
+$(".hover").mouseleave(
+  function () {
+    $(this).removeClass("hover");
+  }
+);
